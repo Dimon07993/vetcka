@@ -1,3 +1,3 @@
 def fun(s):
-    """add"""
+    """123"""
     return s.title()
